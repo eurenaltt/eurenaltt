@@ -9,7 +9,7 @@
 
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/eurenaltt/)
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5582998331155)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5582998331155)
 
 ![Dev Eurenaltt](https://github-readme-stats.vercel.app/api?username=eurenaltt&show_icons=true&theme=dracula)
 
