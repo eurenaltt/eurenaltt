@@ -13,6 +13,8 @@
 
 ![Dev Eurenaltt](https://github-readme-stats.vercel.app/api?username=eurenaltt&show_icons=true&theme=dracula)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eurenaltt&layout=compact)
+
 ### Tecnologias que estou me aprimorando.
 
 <div style="display: inline_block"><br/>
